@@ -1,0 +1,16 @@
+export enum CellTypeEnum {
+  opened,
+  one,
+  two,
+  three,
+  four,
+  five,
+  six,
+  seven,
+  eight,
+  nine,
+  closed,
+  flagged,
+  questioned,
+  bomb,
+}
