@@ -8,7 +8,7 @@ TODO list:
 - [ ] Mobile right click support 
 - [ ] More?..
 ## Where
-Play [Minesweeper95](http://takaiten.github.io/mineweeper95)
+Play [Minesweeper95](https://takaiten.github.io/mineweeper95)
 ## How
 To run localy 
 ```
