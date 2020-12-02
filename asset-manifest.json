@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.js": "/mineweeper95/static/js/main.6de98092.chunk.js",
-    "main.js.map": "/mineweeper95/static/js/main.6de98092.chunk.js.map",
-    "runtime-main.js": "/mineweeper95/static/js/runtime-main.eed34243.js",
-    "runtime-main.js.map": "/mineweeper95/static/js/runtime-main.eed34243.js.map",
-    "static/js/2.364f13f9.chunk.js": "/mineweeper95/static/js/2.364f13f9.chunk.js",
-    "static/js/2.364f13f9.chunk.js.map": "/mineweeper95/static/js/2.364f13f9.chunk.js.map",
-    "static/js/3.ab3a44f8.chunk.js": "/mineweeper95/static/js/3.ab3a44f8.chunk.js",
-    "static/js/3.ab3a44f8.chunk.js.map": "/mineweeper95/static/js/3.ab3a44f8.chunk.js.map",
-    "index.html": "/mineweeper95/index.html",
-    "static/js/2.364f13f9.chunk.js.LICENSE.txt": "/mineweeper95/static/js/2.364f13f9.chunk.js.LICENSE.txt",
-    "static/media/ms_sans_serif.woff2": "/mineweeper95/static/media/ms_sans_serif.0348082a.woff2",
-    "static/media/ms_sans_serif_bold.woff2": "/mineweeper95/static/media/ms_sans_serif_bold.7fcf57cc.woff2"
+    "main.js": "/minesweeper95/static/js/main.6de98092.chunk.js",
+    "main.js.map": "/minesweeper95/static/js/main.6de98092.chunk.js.map",
+    "runtime-main.js": "/minesweeper95/static/js/runtime-main.2f7aba46.js",
+    "runtime-main.js.map": "/minesweeper95/static/js/runtime-main.2f7aba46.js.map",
+    "static/js/2.228af7ee.chunk.js": "/minesweeper95/static/js/2.228af7ee.chunk.js",
+    "static/js/2.228af7ee.chunk.js.map": "/minesweeper95/static/js/2.228af7ee.chunk.js.map",
+    "static/js/3.ab3a44f8.chunk.js": "/minesweeper95/static/js/3.ab3a44f8.chunk.js",
+    "static/js/3.ab3a44f8.chunk.js.map": "/minesweeper95/static/js/3.ab3a44f8.chunk.js.map",
+    "index.html": "/minesweeper95/index.html",
+    "static/js/2.228af7ee.chunk.js.LICENSE.txt": "/minesweeper95/static/js/2.228af7ee.chunk.js.LICENSE.txt",
+    "static/media/ms_sans_serif.woff2": "/minesweeper95/static/media/ms_sans_serif.0348082a.woff2",
+    "static/media/ms_sans_serif_bold.woff2": "/minesweeper95/static/media/ms_sans_serif_bold.7fcf57cc.woff2"
   },
   "entrypoints": [
-    "static/js/runtime-main.eed34243.js",
-    "static/js/2.364f13f9.chunk.js",
+    "static/js/runtime-main.2f7aba46.js",
+    "static/js/2.228af7ee.chunk.js",
     "static/js/main.6de98092.chunk.js"
   ]
 }
