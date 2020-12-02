@@ -1,6 +1,6 @@
 {
   "name": "mine-sweeper-react",
-  "homepage": "http://takaiten.github.io/mineweeper95",
+  "homepage": "http://takaiten.github.io/minesweeper95",
   "version": "0.0.1",
   "private": true,
   "dependencies": {
